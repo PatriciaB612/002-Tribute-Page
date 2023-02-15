@@ -1,0 +1,69 @@
+#header{  
+    border-bottom:0.4em solid #ffe5ec}
+    
+  h1{
+    color:black;
+    text-align:center;}
+  
+  #intro{color:black;
+  text-align:center;
+  margin:0.2em;
+  }
+  
+  figure {
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+  background-color:#ffe5ec;
+  }
+  
+  img {
+    display:block;
+    max-width:100%;
+    height:auto;
+  }
+  
+  figcaption{
+    font-size:1em;
+    text-align:left;
+    }
+  
+    #preface{text-align:center;
+    }
+  
+    p{margin:2em;}
+  
+  h2{text-align:center;
+  margin-bottom:2em;}
+  
+  #tribute-info{
+    margin-top:5em;
+    text-align:center;
+  }
+  
+  ul>li {
+    list-style:none;
+    text-indent:0em;
+    margin-top:1em;
+    margin-bottom:2em;
+    text-align:left;
+    }
+  
+  ul{margin: 0 auto 60px auto;
+    max-width:500px;
+    display:inline-block;
+    padding:0 2em;
+  }
+  
+  #phrase{text-align:center;
+  font-size:1.1em;}
+  
+  #website-referer{
+    margin-bottom:0;
+    margin-top:5em;
+    text-align:center;
+  }
+  
+  #website-link{
+    background-color:#ffe5ec;
+  }
